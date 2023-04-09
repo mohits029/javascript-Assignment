@@ -1,0 +1,28 @@
+.rightext{
+    width: 15vw;
+    height: 40vh;
+    color: aliceblue;
+    font-weight: bold;
+    position: absolute;
+    left: 68%;
+    top: 45%;
+}
+a{
+    color: rgb(0, 67, 0);
+    position: absolute;
+    left: 68.4%;
+    top: 68%;
+    font-weight: bold;
+}
+.icons{
+    display: flex;
+    width: 12vw;
+    font-size: 2rem;
+    justify-content: space-between;
+    position: absolute;
+    top: 73%;
+    left: 68%;
+    background: linear-gradient(to right, #f32170, #3908ff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sp{
+    font-size: 2.4rem;
+    font-weight: bolder;
+    position: absolute;
+    left: 26%;
+    top: 32%;
+    z-index: 1;
+    border-bottom: 3px solid white;
+    
+    
+}
+
+.hi{
+    color: maroon;
+    position: absolute;
+    font-size: 3rem;
+    left: 0%;
+}
+.name{
+    color: maroon;
+    font-size: 3.4rem;
+}
+.undername{
+    position: absolute;
+    width: 20vw;
+    top: 50%;
+    left: 27%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-top: 20px;
+    
+    
+}
+
+
+img{
+    height: 80vh;
+    position: relative;
+    left: 10%;
+    z-index: 999;
+    
+   
+}
+
+
+.image1{
+    text-align: center;
+    background-color: rgb(207, 179, 0);
+    width: 70vw;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.underline{
+    border: 2px solid red;
+    border-radius: 10px;
+}

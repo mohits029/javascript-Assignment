@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+h3{
+    border: 2px solid purple;
+    background-color: rgba(186, 32, 186, 0.782);
+    padding: 0.2px 0.5px;
+    display: inline;
+}
